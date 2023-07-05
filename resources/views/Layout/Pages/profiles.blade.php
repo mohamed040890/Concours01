@@ -27,6 +27,6 @@
         <div class="profile-container">
         </div>
         <h1>Mohamed</h1>
-        <h2>abdelhak</h2>
+        <h2>abdelhak mezough</h2>
     </section>
 @endsection
