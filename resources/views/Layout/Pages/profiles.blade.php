@@ -21,12 +21,10 @@
                 <option value="2">Femme</option>
                 <option value="3">Enfants</option>
                 <option value="3">Haute-Couture</option>
-                <option value="3">Accessoire88s</option>
+                <option value="3">Accessoires</option>
             </select>
         </div>
         <div class="profile-container">
         </div>
-        <h1>Mohamed</h1>
-        <h2>abdelhak mezough</h2>
     </section>
 @endsection
